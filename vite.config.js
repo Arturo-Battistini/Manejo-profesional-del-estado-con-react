@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:'Manejo-profesional-del-estado-con-react'
+  base:'estados_en_react/'
 })
